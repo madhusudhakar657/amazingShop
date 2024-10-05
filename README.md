@@ -44,5 +44,3 @@ It is my Amazon clone project built with ReactJS and Fake Store API.
 - Check out Wiki to see screen shots of the Amazon Clone
 ## Authors
 
-- [@Mehdi-Zandian](https://github.com/Mehdi-Zandian)
-
