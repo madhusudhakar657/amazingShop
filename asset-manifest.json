@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/amazingShop/static/css/main.0a4b6b56.css",
+    "main.js": "/amazingShop/static/js/main.73372a27.js",
+    "static/media/prime-day-product-banner.jpg": "/amazingShop/static/media/prime-day-product-banner.ad6e3639fa4428c2992d.jpg",
+    "static/media/order.jpg": "/amazingShop/static/media/order.63296e23416ec45d3a59.jpg",
+    "static/media/exclusive.jpg": "/amazingShop/static/media/exclusive.73d486827b70b19b8969.jpg",
+    "static/media/logo.PNG": "/amazingShop/static/media/logo.79a1dd45e47017ffa5da.PNG",
+    "static/media/empty-order.svg": "/amazingShop/static/media/empty-order.d44ea42f0242d67241a5957f9582cf21.svg",
+    "static/media/empty-cart.svg": "/amazingShop/static/media/empty-cart.5fa950c841477d09c988a684ef197b36.svg",
+    "static/media/um.svg": "/amazingShop/static/media/um.867207fe83a99a3b9b957f97b9245188.svg",
+    "index.html": "/amazingShop/index.html",
+    "main.0a4b6b56.css.map": "/amazingShop/static/css/main.0a4b6b56.css.map",
+    "main.73372a27.js.map": "/amazingShop/static/js/main.73372a27.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a4b6b56.css",
+    "static/js/main.73372a27.js"
+  ]
+}
